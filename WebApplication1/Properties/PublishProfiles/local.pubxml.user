@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\iis\Myhospital</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="AddEmployee.aspx">
+      <publishTime>11/10/2014 16:51:06</publishTime>
+    </File>
+    <File Include="AddPatient.aspx">
+      <publishTime>11/19/2014 05:52:34</publishTime>
+    </File>
+    <File Include="Appointment_create.aspx">
+      <publishTime>11/19/2014 18:19:24</publishTime>
+    </File>
+    <File Include="Association.aspx">
+      <publishTime>11/21/2014 20:33:44</publishTime>
+    </File>
+    <File Include="BillingCentral.aspx">
+      <publishTime>11/10/2014 16:51:08</publishTime>
+    </File>
+    <File Include="bin/WebApplication1.dll">
+      <publishTime>11/24/2014 15:27:37</publishTime>
+    </File>
+    <File Include="DoctorCentral.aspx">
+      <publishTime>11/10/2014 16:51:10</publishTime>
+    </File>
+    <File Include="ITCentral.aspx">
+      <publishTime>11/10/2014 16:51:10</publishTime>
+    </File>
+    <File Include="LegalCentral.aspx">
+      <publishTime>11/10/2014 16:51:10</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>11/20/2014 16:59:34</publishTime>
+    </File>
+    <File Include="NurseCentral.aspx">
+      <publishTime>11/10/2014 16:51:12</publishTime>
+    </File>
+    <File Include="OpenAppointment.aspx">
+      <publishTime>11/14/2014 21:37:52</publishTime>
+    </File>
+    <File Include="PatientCentral.aspx">
+      <publishTime>11/10/2014 16:51:14</publishTime>
+    </File>
+    <File Include="PersonalInfo.aspx">
+      <publishTime>11/21/2014 22:35:40</publishTime>
+    </File>
+    <File Include="UpdatePatient.aspx">
+      <publishTime>11/21/2014 16:26:42</publishTime>
+    </File>
+    <File Include="ViewAppointment.aspx">
+      <publishTime>11/22/2014 12:57:14</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/24/2014 15:27:38</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

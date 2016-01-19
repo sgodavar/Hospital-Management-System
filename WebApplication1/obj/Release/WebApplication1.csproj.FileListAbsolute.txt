@@ -1,0 +1,6 @@
+C:\Users\surya\Desktop\asp5\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\surya\Desktop\asp5\WebApplication1\bin\WebApplication1.dll
+C:\Users\surya\Desktop\asp5\WebApplication1\bin\WebApplication1.pdb
+C:\Users\surya\Desktop\asp5\WebApplication1\obj\Release\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\surya\Desktop\asp5\WebApplication1\obj\Release\WebApplication1.dll
+C:\Users\surya\Desktop\asp5\WebApplication1\obj\Release\WebApplication1.pdb
